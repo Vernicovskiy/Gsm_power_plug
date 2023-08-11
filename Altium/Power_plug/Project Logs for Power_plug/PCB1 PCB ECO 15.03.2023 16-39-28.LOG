@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=PB0 Pin=U1-18
+Added Component: Designator=C5(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing Part Number"; Value = "C0805C104J5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing Part Number"; Value = "C0805C104J5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VCC Pin=C8-2
+Added Pin To Net: NetName=PB0 Pin=U1-43
+Change Net Name : Old Net Name=PB0 New Net Name=PB7
+Added Pin To Net: NetName=PB0 Pin=R5-1
+Added Pin To Net: NetName=PB0 Pin=U1-18
+Added Net: Name=PB0

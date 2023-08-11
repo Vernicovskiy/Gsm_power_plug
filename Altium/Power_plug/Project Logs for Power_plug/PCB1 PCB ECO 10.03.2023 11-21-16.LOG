@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=XTALA Pin=U1-5
+Change Net Name : Old Net Name=NetR10_2 New Net Name=PB0
+Added Pin To Net: NetName=PC13 Pin=R8-1
+Added Pin To Net: NetName=PC13 Pin=U1-2
+Added Net: Name=PC13
+Added Pin To Net: NetName=XTALB Pin=R3-2
+Added Pin To Net: NetName=XTALB Pin=U1-6
+Added Net: Name=XTALB
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

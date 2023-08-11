@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=T2-1
+Removed Pin From Net: NetName=NetD1_A Pin=T2-3
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-2
+Added Net: Name=NetQ1_1

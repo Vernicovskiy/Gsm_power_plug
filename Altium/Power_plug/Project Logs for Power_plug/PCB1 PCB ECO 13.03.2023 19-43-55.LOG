@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetR9_1 Pin=SW1-2
+Removed Pin From Net: NetName=NRST Pin=SW2-2
+Change Component Footprint: Designator=SW1 Old Footprint=SW_342_SMD New Footprint=SW_1825910-6-4
+Change Component Footprint: Designator=SW2 Old Footprint=SW_342_SMD New Footprint=SW_1825910-6-4
+Change Component Comment : Designator=SW1 Old Comment=TACT SWITCH New Comment=1825910-6
+Change Component Comment : Designator=SW2 Old Comment=TACT SWITCH New Comment=1825910-6
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SW_342_SMD"; UniqueID = "\URTROJIX" ("\URTROJIX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1825910-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "SW_342_SMD"; UniqueID = "\JPFQXWSC" ("\JPFQXWSC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1825910-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB0 Pin=SW1-2
+Added Pin To Net: NetName=NetR9_1 Pin=SW1-3
+Added Pin To Net: NetName=NetR9_1 Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=NRST Pin=SW2-3
+Added Pin To Net: NetName=NRST Pin=SW2-4
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet5

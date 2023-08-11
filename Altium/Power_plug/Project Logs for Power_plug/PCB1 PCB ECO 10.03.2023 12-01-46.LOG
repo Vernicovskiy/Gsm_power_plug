@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NRST Pin=J-4
+Added Pin To Net: NetName=SWCLK Pin=J-2
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J-3
+Added Pin To Net: NetName=SWDIO Pin=U1-34
+Added Net: Name=SWDIO
+Added Room: Name=Sheet3

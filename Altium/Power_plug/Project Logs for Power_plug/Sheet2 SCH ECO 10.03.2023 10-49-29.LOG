@@ -1,0 +1,10 @@
+Change Component Comment: Designator=R8 Old Comment=1K New Comment=10K
+Change Component Comment: Designator=R7 Old Comment=1K New Comment=220K
+Change Component Comment: Designator=R4 Old Comment=4.7K New Comment=1K
+Change Component Comment: Designator=R5 Old Comment=10K New Comment=1K
+Change Component Comment: Designator=R10 Old Comment=10K New Comment=4.7K
+Change Component Comment: Designator=R9 Old Comment=220K New Comment=10K
+Change Pin Designator/Name:  Old Designator=R8-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R10-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=U1-25 Old Name=PB12 New Designator =PB7 New Name=43
+Change Pin Designator/Name:  Old Designator=U1-43 Old Name=PB7 New Designator =PB12 New Name=25

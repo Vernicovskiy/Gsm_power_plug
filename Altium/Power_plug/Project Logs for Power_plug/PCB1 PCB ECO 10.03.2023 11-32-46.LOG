@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=Sheet2 Member=T1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=PA2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=PB7
+Added Pin To Net: NetName=COM Pin=K1-COM
+Added Pin To Net: NetName=COM Pin=P2-1
+Added Net: Name=COM
+Added Pin To Net: NetName=NO Pin=K1-NO
+Added Pin To Net: NetName=NO Pin=P1-1
+Added Net: Name=NO
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

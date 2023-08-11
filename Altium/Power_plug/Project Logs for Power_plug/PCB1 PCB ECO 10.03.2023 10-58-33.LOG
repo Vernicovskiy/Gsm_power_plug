@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=COM1 NewDesignator=GSM
+Change Net Name : Old Net Name=NetCOM1_2 New Net Name=NetGSM_2
+Change Net Name : Old Net Name=NetCOM1_3 New Net Name=NetGSM_3
+Change Net Name : Old Net Name=NetCOM1_4 New Net Name=NetGSM_4
+Added Room: Name=Sheet3
